@@ -191,12 +191,10 @@ header{
     font-size: 58px;
 }
 
-.AllPic{
+.AllPics{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-
-
 }
 
 .OnePic, .TwoPic{
