@@ -65,8 +65,8 @@ header{
     color: #FFF;
     font-size: 90px;
     padding-left: 10vh;
-
 }
+
 .Text2{
     color: rgba(255, 255, 255, 0.70);
     font-size: 30px;
@@ -125,7 +125,6 @@ header{
     width: 60vw;
     height: 70vh;
     padding-left: 40vh;
-
 }
 
 .Page2{
@@ -157,8 +156,6 @@ header{
 .Card1>p, .Card2>p, .Card3>p, .Card4>p, .Card5>p, .Card6>p{
     color: rgba(255, 255, 255, 0.70);
     font-size: 20px;
-
-
 }
 
 .Card1, .Card2, .Card3, .Card4>, .Card5, .Card6{
@@ -188,11 +185,25 @@ header{
     padding-left: 10vh;
 }
 
-.AllPic>img{
-    width: 336px;
-    height: 253px;
-    display: flex;
 
+.Portofolio>p{
+    color: #FFF;
+    font-size: 58px;
+}
+
+.AllPic{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 
 
 }
+
+.OnePic, .TwoPic{
+    width: 336px;
+    height: 253px;
+    padding-top: 150px;
+    display: flex;
+    justify-content: center;
+}
+
