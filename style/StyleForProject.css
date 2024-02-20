@@ -189,6 +189,7 @@ header{
 .Portofolio>p{
     color: #FFF;
     font-size: 58px;
+    padding-left: 10vh;
 }
 
 .AllPics{
@@ -203,5 +204,35 @@ header{
     padding-top: 150px;
     display: flex;
     justify-content: center;
+}
+
+#PageFive{
+    height: 50vh;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.LastPage>p{
+    color: #FFF;
+    font-size: 60px;
+    padding-left: 10vh;
+}
+
+.BButton{
+    background-color: #5454D4;
+    color: #ffffff;
+    padding: 11px 44px;
+    margin-left: 10vh;
+    margin-top: 10vh;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.FinallyPage>p{
+    margin-top: 15vh;
+    margin-left: 10vh;
 }
 
