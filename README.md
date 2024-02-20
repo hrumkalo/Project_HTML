@@ -1,0 +1,1 @@
+Display / Current Resolution = 1920x1080x60ГЦ

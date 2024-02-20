@@ -1,0 +1,22 @@
+body{
+    background-color: #181a18;
+    color: ghostwhite;
+    font-family: "Lato", sans-serif;
+}
+
+#PageOne, #PageTwo, #PageThree, #PageFour{
+    height: 100vh;
+}
+
+header>div>img{
+    width: 70px;
+    height: 70px;
+    margin-left: 6vw;
+    margin-top: 2vh;
+}
+
+h4{
+    color: ghostwhite;
+    font-size: 28px;
+    padding-left: 8px;
+}
