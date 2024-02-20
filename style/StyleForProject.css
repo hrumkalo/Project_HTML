@@ -124,7 +124,7 @@ header{
 #PageTwo>img{
     width: 60vw;
     height: 70vh;
-    padding-left: 30vh;
+    padding-left: 40vh;
 
 }
 
@@ -134,3 +134,65 @@ header{
     align-items: center;
 }
 
+.Text5{
+    color: #FFF;
+    text-align: center;
+    font-size: 68px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Card1>img, .Card2>img, .Card3>img, .Card4>img, .Card5>img, .Card6>img{
+    width: 3vw;
+    height: 5vh;
+   padding-left: 6vw;
+}
+
+.Card1>h4, .Card2>h4, .Card3>h4, .Card4>h4, .Card5>h4, .Card6>h4{
+    color: #FFF;;
+    font-size: 28px;
+}
+
+.Card1>p, .Card2>p, .Card3>p, .Card4>p, .Card5>p, .Card6>p{
+    color: rgba(255, 255, 255, 0.70);
+    font-size: 20px;
+
+
+}
+
+.Card1, .Card2, .Card3, .Card4>, .Card5, .Card6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.PartOne, .PartTwo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.PartOne{
+    padding-bottom: 50px;
+}
+
+.PartTwo{
+    padding-top: 50px;
+}
+
+#PageFour>h2{
+    font-size: 58px;
+    color: #FFF;
+    padding-left: 10vh;
+}
+
+.AllPic>img{
+    width: 336px;
+    height: 253px;
+    display: flex;
+
+
+
+}
